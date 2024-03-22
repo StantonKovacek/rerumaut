@@ -1,0 +1,49 @@
+{
+  "name": "rerumaut",
+  "version": "1.0.0",
+  "description": "Xray Javascript Client is a javascript library, which wraps some of the REST APIs exposed by JFrog Xray.",
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/StantonKovacek/rerumaut.git"
+  },
+  "bugs": {
+    "url": "https://github.com/StantonKovacek/rerumaut.git/issues"
+  },
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist/**/*"
+  ],
+  "dependencies": {
+    "axios": "~0.19.2"
+  },
+  "devDependencies": {
+    "@types/faker": "^4.1.11",
+    "@types/http-proxy": "^1.17.4",
+    "@types/jest": "^25.2.1",
+    "faker": "^4.1.0",
+    "http-proxy": "^1.18.0",
+    "jest": "^25.5.0",
+    "nock": "^12.0.3",
+    "prettier": "^2.0.5",
+    "ts-jest": "^25.4.0",
+    "tslint": "^6.1.2",
+    "tslint-config-prettier": "^1.18.0",
+    "typescript": "^3.8.3"
+  },
+  "keywords": [
+    "artifactory",
+    "ex",
+    "typescript",
+    "autem",
+    "iste",
+    "eum",
+    "nemo",
+    "architecto",
+    "quia",
+    "js",
+    "ts"
+  ],
+  "author": "RogerHauck"
+}
